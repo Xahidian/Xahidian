@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
   <img src="https://playwright.dev/img/playwright-logo.svg" height="30" alt="Playwright" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Robot-framework-logo.png" height="30" alt="Robot Framework" />
+  
 </p>
 
 
@@ -62,17 +62,22 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Highlights
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xahidian&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xahidian&theme=radical" alt="GitHub Streak"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Xahidian&theme=radical&no-bg=true&no-frame=true&column=6" />
+</p>
+
 
 ## 📫 Let’s Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/md-zahid32/)
 - 📬 mdhasibulzahid32@@gmail.com  
-- 🌐 [Portfolio Website](#) *(coming soon)*
+
 
 ---
 
