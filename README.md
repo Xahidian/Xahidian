@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Zahid</h1>
-<h3 align="center">| Test Automation Enthusiast | Full-Stack Developer</h3>
+<h3 align="center"> Test Automation Enthusiast | Full-Stack Developer</h3>
 
 ---
 
-🎓 Master’s Student in Information Technology @ Åbo Akademi University (Finland)  
+🎓 Master’s Student in Information Technology @ Åbo Akademi University (Turku,Finland)  
 🛠️ Focused on Web Testing, Fault Injection & Mutation Analysis using Playwright + Metamorphic Testing  
 💡 Currently working on thesis 
 📍 Based in Turku | 💬 Open to new testing-focused dev opportunities  
@@ -14,16 +14,19 @@
 ## 🧰 Languages - Frameworks - Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="Svelte" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" height="30" alt="Playwright" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Robot-framework-logo.png" height="30" alt="Robot Framework" />
 </p>
+
 
 ---
 
@@ -61,7 +64,6 @@
 
 ## 📊 GitHub Stats
 
-![Zahid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xahidian&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xahidian&layout=compact&theme=radical)
 
 ---
