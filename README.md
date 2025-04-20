@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Zahid</h1>
-<h3 align="center">Software Engineer | Test Automation Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">| Test Automation Enthusiast | Full-Stack Developer</h3>
 
 ---
 
@@ -32,7 +32,7 @@
 - 🔍 **[Spring PetClinic Mutation Testing](https://github.com/Xahidian/spring-petclinic-mutation-testing)**  
   Comparative analysis of unit vs metamorphic tests using fault injection and Playwright.
 
-- 🛒 **[WebShop (React + Django)](https://github.com/Xahidian/webshop)**  
+- 🛒 **[WebShop (React + Django)](#)**  This repo is private for Thesis & grading purpose.
   A full-stack shopping app with login/signup, cart, purchase history, and mutation-tested checkout logic.
 
 - 🎓 **[Student Performance Predictor](https://github.com/Xahidian/Student-Performance-Predictor)**  
