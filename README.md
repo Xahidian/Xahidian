@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Zahid</h1>
-<h3 align="center"> Test Automation Enthusiast | Full-Stack Developer</h3>
+<h3 align="center"> Test Automation Enthusiast </h3>
+<h4 The goal of testing is not to prove something works, but to find how it fails — so we can build something better. </h4>
 
 ---
 
