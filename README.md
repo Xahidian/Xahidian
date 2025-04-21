@@ -1,12 +1,15 @@
-<h1 align="center">Hey 👋, I'm Zahid</h1>
-<h3 align="center"> Test Automation Enthusiast </h3>
-<h4 The goal of testing is not to prove something works, but to find how it fails — so we can build something better. </h4>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Zahid!&fontSize=40&fontAlignY=35&desc=Test%20Automation%20|%20Full-Stack%20|%20QA%20Researcher&descAlignY=60" alt="banner" />
+</p>
+
+<h3 align="center">🧪 Test Automation Enthusiast | 💻 Full-Stack Developer</h3>
 
 ---
 
-🎓 Master’s Student in Information Technology @ Åbo Akademi University (Turku,Finland)  
+🎓 Master’s Student in Information Technology @ Åbo Akademi University (Turku, Finland)  
 🛠️ Focused on Web Testing, Fault Injection & Mutation Analysis using Playwright + Metamorphic Testing  
-💡 Currently working on thesis 
+💡 Currently working on thesis  
 📍 Based in Turku | 💬 Open to new testing-focused dev opportunities  
 🎮 Loves Dota 2 | 🧪 Breaking things (intentionally)
 
@@ -25,9 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
   <img src="https://playwright.dev/img/playwright-logo.svg" height="30" alt="Playwright" />
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Robot-framework-logo.png" height="30" alt="Robot Framework" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/test-passed.png" height="30" alt="Testing" />
 </p>
-
 
 ---
 
@@ -36,7 +39,7 @@
 - 🔍 **[Spring PetClinic Mutation Testing](https://github.com/Xahidian/spring-petclinic-mutation-testing)**  
   Comparative analysis of unit vs metamorphic tests using fault injection and Playwright.
 
-- 🛒 **[WebShop (React + Django)](#)**  This repo is private for Thesis & grading purpose.
+- 🛒 **[WebShop (React + Django)](#)** *(This repo is private for thesis & grading purposes)*  
   A full-stack shopping app with login/signup, cart, purchase history, and mutation-tested checkout logic.
 
 - 🎓 **[Student Performance Predictor](https://github.com/Xahidian/Student-Performance-Predictor)**  
@@ -48,18 +51,25 @@
 - 🤖 **[Embedded AI Project](https://github.com/Xahidian/Embedded_AI_Project)**  
   Arduino Nano BLE-based audio and image detection system. Combines embedded systems with AI for smart sensor processing. Includes two sub-projects focused on detection accuracy.
 
-
 ---
 
 ## 📚 Thesis Focus
 
-**Title:** Metamorphic testing of WebApplication using Playwright  
+**Title:** *Metamorphic testing of Web Applications using Playwright*  
 **Core Ideas:**  
 - Testing pre-tested web apps with MR  
 - Fault injection in APIs & UI  
 - Comparison between functional and metamorphic test detection power  
 
-📌 *Currently applying this on 4 case studies: PetClinic, WebShop, Task Manager API, ATM-MT Case Study *
+📌 *Currently applying this on 4 case studies: PetClinic, WebShop, Task Manager API, ATM-MT Case Study*
+
+---
+
+## 💬 Quote I Live By
+
+<p align="center">
+  <em>"The goal of testing is not to prove something works, but to find how it fails — so we can build something better."</em>
+</p>
 
 ---
 
@@ -73,13 +83,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Xahidian&theme=radical&no-bg=true&no-frame=true&column=6" />
 </p>
 
+---
 
 ## 📫 Let’s Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/md-zahid32/)
-- 📬 mdhasibulzahid32@@gmail.com  
-
+- 📬 mdhasibulzahid32@gmail.com  
 
 ---
 
-_Thanks for visiting my profile!_ 😊
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
