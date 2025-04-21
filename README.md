@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Zahid!&fontSize=40&fontAlignY=35&desc=Test%20Automation%20|%20Full-Stack%20|%20QA%20Researcher&descAlignY=60" alt="banner" />
 </p>
 
-<h3 align="center">🧪 Test Automation Enthusiast | 💻 Full-Stack Developer</h3>
 
 ---
 
@@ -28,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
   <img src="https://playwright.dev/img/playwright-logo.svg" height="30" alt="Playwright" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Robot-framework-logo.png" height="30" alt="Robot Framework" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/test-passed.png" height="30" alt="Testing" />
 </p>
 
 ---
