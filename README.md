@@ -36,11 +36,11 @@
 - 🔍 **[Spring PetClinic Mutation Testing](https://github.com/Xahidian/spring-petclinic-mutation-testing)**  
   Comparative analysis of unit vs metamorphic tests using fault injection and Playwright.
 
-- 🛒 **[WebShop (React + Django)](#)** *(This repo is private for thesis & grading purposes)*  
+- 🛒 **[WebShop (React + Django)](https://github.com/Xahidian/WebSHop-Ecommerce-Django-React)**  
   A full-stack shopping app with login/signup, cart, purchase history, and mutation-tested checkout logic.
 
 - 🎓 **[Student Performance Predictor](https://github.com/Xahidian/Student-Performance-Predictor)**  
-  Machine learning model built to predict student scores based on input features, using scikit-learn.
+  A machine learning model built to predict student scores based on input features, using scikit-learn.
 
 - 🍳 **[What Should I Cook Tonight?](https://github.com/Xahidian/What-Should-I-Cook-Tonight)**  
   A recipe suggestion engine using NLP and classification models to help users decide meals based on available ingredients.
@@ -54,9 +54,10 @@
 
 **Title:** *Metamorphic testing of Web Applications using Playwright*  
 **Core Ideas:**  
-- Testing pre-tested web apps with MR  
+- Solve Oracle-related problems in Web Based Application
+- Testing pre-tested web apps with MR
 - Fault injection in APIs & UI  
-- Comparison between functional and metamorphic test detection power  
+- Comparison between functional and metamorphic test to verify MR can detetc more faults than traditional test
 
 📌 *Currently applying this on 4 case studies: PetClinic, WebShop, Task Manager API, ATM-MT Case Study*
 
