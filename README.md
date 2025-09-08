@@ -5,13 +5,22 @@
 
 
 ---
+---
 
 🎓 **Graduated** in Information Technology @ Åbo Akademi University (Turku, Finland)  
-🛠️ Specialized in Web Development, Web Testing, Fault Injection & Mutation Analysis 
-💡 Current Research: Metamorphic Testing 
+🛠️ Specialized in Web Development  
+🛠️ Specialized in Web Testing  
+🛠️ Specialized in Fault Injection  
+🛠️ Specialized in Mutation Analysis  
+💡 Current Research: Metamorphic Testing  
 📄 Writing a Conference Paper (QA & Testing Focus)  
-📍 Based in Turku | 🎯 Preparing for **ISTQB Certification**  
-🎮 Loves Dota 2 | 🧪 Passion for Breaking & Fixing Systems 
+📍 Based in Turku  
+🎯 Preparing for **ISTQB Certification**  
+🎮 Loves Dota 2  
+🧪 Passion for Breaking & Fixing Systems  
+
+---
+
 
 ---
 
