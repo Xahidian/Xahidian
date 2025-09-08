@@ -6,11 +6,12 @@
 
 ---
 
-🎓 Master’s Student in Information Technology @ Åbo Akademi University (Turku, Finland)  
-🛠️ Focused on Web Testing, Fault Injection & Mutation Analysis using Playwright + Metamorphic Testing  
-💡 Currently working on thesis  
-📍 Based in Turku | 💬 Open to new testing-focused dev opportunities  
-🎮 Loves Dota 2 | 🧪 Breaking things (intentionally)
+🎓 **Graduated** in Information Technology @ Åbo Akademi University (Turku, Finland)  
+🛠️ Specialized in Web Development, Web Testing, Fault Injection & Mutation Analysis 
+💡 Current Research: Metamorphic Testing 
+📄 Writing a Conference Paper (QA & Testing Focus)  
+📍 Based in Turku | 🎯 Preparing for **ISTQB Certification**  
+🎮 Loves Dota 2 | 🧪 Passion for Breaking & Fixing Systems 
 
 ---
 
@@ -50,16 +51,18 @@
 
 ---
 
-## 📚 Thesis Focus
 
-**Title:** *Metamorphic testing of Web Applications using Playwright*  
-**Core Ideas:**  
-- Solve Oracle-related problems in Web Based Application
-- Testing pre-tested web apps with MR
+## 📚 Research & Conference Work
+
+**Current Focus:** *Metamorphic testing of Web Applications using Playwright*  
+**Highlights:**  
+- Solving Oracle-related problems in Web-based testing  
 - Fault injection in APIs & UI  
-- Comparison between functional and metamorphic test to verify MR can detetc more faults than traditional test
+- Comparative analysis: Functional vs Metamorphic testing  
+- Writing and preparing for **Conference Submission**  
 
-📌 *Currently applying this on 4 case studies: PetClinic, WebShop, Task Manager API, ATM-MT Case Study*
+📌 Case Studies: PetClinic, WebShop, Task Manager API, ATM-MT Case Study  
+
 
 ---
 
