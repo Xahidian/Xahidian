@@ -6,15 +6,18 @@
 
 ---
 
-🎓 MSc in Information Technology (**Computer Engineering**) — Åbo Akademi University, Turku, Finland
-🏆 Best Master’s Thesis Award 2025 — Finnish Software Testing Board (FiSTB)
-🛠️ Focus areas: Web Development, Web Testing, Fault Injection, Mutation Analysis, Data Analysis
-🧠 Research interest: Metamorphic Testing & Agentic AI
-📄 Preparing a conference paper in Software Testing & Quality Engineering
-📍 Based in Turku, Finland
+🎓 MSc in Information Technology (Computer Engineering) — Åbo Akademi University, Turku, Finland  
+🏆 Best Master’s Thesis Award — Finnish Software Testing Board (FiSTB)  
+
+🛠️ Focus areas: Web Development, Web Testing, Fault Injection, Mutation Analysis, Data Analysis  
+🧠 Research interest: Metamorphic Testing & Agentic AI 
+📄 Preparing a conference paper in Software Testing & Quality Engineering  
+
+📍 Based in Turku, Finland  
 🎯 Currently exploring Agentic AI
-🧪 Passionate about breaking systems to understand, evaluate, and improve their reliability
-🎮 Recharging occasionally with **Dota 2**
+🧪 Passionate about breaking systems to understand, evaluate, and improve their reliability  
+🎮 Recharging occasionally with Dota 2
+
 
 ---
 
