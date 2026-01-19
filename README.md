@@ -1,27 +1,25 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Zahid!&fontSize=40&fontAlignY=35&desc=Test%20Automation%20|%20Full-Stack%20|%20QA%20Researcher&descAlignY=60" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Zahid!&fontSize=40&fontAlignY=35&desc=Test%20Automation%20|%20Quality%20Engineering%20|%20QA%20Researcher&descAlignY=60" alt="banner" />
 </p>
-
 
 ---
 
-🎓 MSc in Information Technology (Computer Engineering) — Åbo Akademi University, Turku, Finland  
-🏆 Best Master’s Thesis Award — Finnish Software Testing Board (FiSTB)  
+🎓 **MSc in Information Technology (Computer Engineering)** — Åbo Akademi University, Turku, Finland  
+🏆 **Best Master’s Thesis Award** — Finnish Software Testing Board (FiSTB)
 
-🛠️ Focus areas: Web Development, Web Testing, Fault Injection, Mutation Analysis, Data Analysis  
-🧠 Research interest: Metamorphic Testing & Agentic AI  
-📄 Preparing a conference paper in Software Testing & Quality Engineering  
+🛠️ **Focus areas:** Web Development, Web Testing, Fault Injection, Mutation Analysis, Data Analysis  
+🧠 **Primary research interest:** Metamorphic Testing for Web Applications  
+🤖 **Exploratory interest:** Agentic AI for advanced testing and automation  
+📄 **Current work:** Preparing a conference paper in Software Testing & Quality Engineering
 
 📍 Based in Turku, Finland  
-🎯 Currently exploring Agentic AI  
 🧪 Passionate about breaking systems to understand, evaluate, and improve their reliability  
 🎮 Recharging occasionally with Dota 2
 
-
 ---
 
-## 🧰 Languages - Frameworks - Tools
+## 🧰 Languages · Frameworks · Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
@@ -36,39 +34,41 @@
   <img src="https://playwright.dev/img/playwright-logo.svg" height="30" alt="Playwright" />
 </p>
 
+**Testing focus:** Playwright · Fault Injection · Mutation Analysis · Metamorphic Relation–based Test Design
+
 ---
 
 ## 💼 Featured Projects
 
 - 🔍 **[Spring PetClinic Mutation Testing](https://github.com/Xahidian/spring-petclinic-mutation-testing)**  
-  Comparative analysis of unit vs metamorphic tests using fault injection and Playwright.
+  Comparative analysis of unit tests vs metamorphic tests using fault injection and Playwright, revealing faults missed by traditional testing.
 
 - 🛒 **[WebShop (React + Django)](https://github.com/Xahidian/WebSHop-Ecommerce-Django-React)**  
-  A full-stack shopping app with login/signup, cart, purchase history, and mutation-tested checkout logic.
+  Full-stack e-commerce application with authentication, cart, checkout, and purchase history, evaluated using mutation testing and MR-based validation.
 
 - 🎓 **[Student Performance Predictor](https://github.com/Xahidian/Student-Performance-Predictor)**  
-  A machine learning model built to predict student scores based on input features, using scikit-learn.
+  Machine learning model predicting student performance from input features using scikit-learn.
 
 - 🍳 **[What Should I Cook Tonight?](https://github.com/Xahidian/What-Should-I-Cook-Tonight)**  
-  A recipe suggestion engine using NLP and classification models to help users decide meals based on available ingredients.
+  NLP-based recipe recommendation system using classification techniques to suggest meals from available ingredients.
 
 - 🤖 **[Embedded AI Project](https://github.com/Xahidian/Embedded_AI_Project)**  
-  Arduino Nano BLE-based audio and image detection system. Combines embedded systems with AI for smart sensor processing. Includes two sub-projects focused on detection accuracy.
+  Arduino Nano BLE–based audio and image detection system combining embedded systems with AI for smart sensing and detection accuracy analysis.
 
 ---
 
-
 ## 📚 Research & Conference Work
 
-**Current Focus:** *Metamorphic testing of Web Applications using Playwright*  
-**Highlights:**  
-- Solving Oracle-related problems in Web-based testing  
-- Fault injection in APIs & UI  
-- Comparative analysis: Functional vs Metamorphic testing  
-- Writing and preparing for **Conference Submission**  
+**Current Focus:** *Metamorphic Testing of Web Applications using Playwright*
 
-📌 Case Studies: PetClinic, WebShop, Task Manager API, ATM-MT Case Study  
+**Research Highlights:**
+- Addressing oracle-related problems in web-based testing  
+- Fault injection at API and UI levels  
+- Comparative evaluation: Functional testing vs Metamorphic testing  
+- Designing MR-based automated test suites  
+- Preparing and refining results for **conference submission**
 
+📌 **Case Studies:** Spring PetClinic · WebShop · Task Manager API · ATM MT Case Study
 
 ---
 
@@ -83,19 +83,19 @@
 ## 📊 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xahidian&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xahidian&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xahidian&theme=radical&no-bg=true&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Xahidian&theme=radical&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📫 Let’s Connect!
+## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/md-zahid32/)
-- 📬 mdhasibulzahid32@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/md-zahid32/  
+- 📬 Email: mdhasibulzahid32@gmail.com  
 
 ---
 
