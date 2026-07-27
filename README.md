@@ -8,10 +8,10 @@
 🎓 **MSc in Information Technology (Computer Engineering)** — Åbo Akademi University, Turku, Finland  
 🏆 **Best Master’s Thesis Award** — Finnish Software Testing Board (FiSTB)
 
-🛠️ **Focus areas:** Web Development, Web Testing, Fault Injection, Mutation Analysis, Data Analysis  
-🧠 **Primary research interest:** Metamorphic Testing for Web Applications  
-🤖 **Exploratory interest:** Agentic AI for advanced testing and automation  
-📄 **Current work:** Preparing a conference paper in Software Testing & Quality Engineering
+🛠️ **Focus areas:** LLM-based automated program repair, bug detection, and repair reliability
+🧠 **Primary research interest:** automated bug repair and metamorphic testing  
+🤖 **Exploratory interest:** Reasoning-guided repair, self-training, and agentic AI for advanced software testing and automation 
+📄 **Current work:** Reasoning-guided repair, self-training, and agentic AI for advanced software testing and automation
 
 📍 Based in Turku, Finland  
 🧪 Passionate about breaking systems to understand, evaluate, and improve their reliability  
