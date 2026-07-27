@@ -4,7 +4,7 @@
 </p>
 
 ---
-
+🎓 ** Started PhD ** — LUT University, Lappeenranta, Finland  
 🎓 **MSc in Information Technology (Computer Engineering)** — Åbo Akademi University, Turku, Finland  
 🏆 **Best Master’s Thesis Award** — Finnish Software Testing Board (FiSTB)
 
